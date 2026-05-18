@@ -1,3 +1,9 @@
-2026/05/18-17:04:23.392 60c0 Reusing MANIFEST C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/18-17:04:23.408 60c0 Recovering log #3
-2026/05/18-17:04:23.411 60c0 Reusing old log C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/18-19:11:59.451 3d30 Reusing MANIFEST C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-19:11:59.457 3d30 Recovering log #3
+2026/05/18-19:11:59.460 3d30 Reusing old log C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/18-19:16:43.524 7324 Level-0 table #5: started
+2026/05/18-19:16:43.530 7324 Level-0 table #5: 64428 bytes OK
+2026/05/18-19:16:43.532 7324 Delete type=0 #3
+2026/05/18-21:46:48.843 7324 Level-0 table #7: started
+2026/05/18-21:46:48.848 7324 Level-0 table #7: 79782 bytes OK
+2026/05/18-21:46:48.851 7324 Delete type=0 #4
