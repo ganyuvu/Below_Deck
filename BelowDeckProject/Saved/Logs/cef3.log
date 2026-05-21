@@ -1,12 +1,62 @@
-[12956:41828:0521/013123.169:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12956:1304:0521/013123.207:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12956:41828:0521/013123.235:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12956:2724:0521/013127.726:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12956:2724:0521/013127.729:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12956:2724:0521/013127.731:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12956:2724:0521/013127.735:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12956:2724:0521/013128.944:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12956:2724:0521/013128.947:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12956:41828:0521/013129.058:ERROR:device_event_log_impl.cc(196)] [01:31:28.944] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[34104:16068:0521/013129.799:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E1FA0B068D77BE76FCB932A757F4AD01 will be ignored
-[12956:41828:0521/013233.649:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25168:25172:0521/013937.007:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25168:27008:0521/013937.183:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25168:29852:0521/013937.211:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30268:26928:0521/013937.263:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25168:25172:0521/013937.300:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25168:29852:0521/013941.744:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25168:29852:0521/013941.749:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25168:29852:0521/013941.752:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25168:29852:0521/013941.756:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emaei\Desktop\Nialls game\BelowDeckProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25168:27008:0521/013942.109:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25168:27008:0521/013942.112:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25168:29852:0521/013942.186:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25280:27836:0521/013942.264:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DACC05890EEF98197930093D3F3634CC will be ignored
+[30268:26928:0521/013942.277:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25168:25172:0521/013944.564:ERROR:device_event_log_impl.cc(196)] [01:39:44.557] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25168:29852:0521/013952.189:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30268:26928:0521/013952.290:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25168:29852:0521/014012.192:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30268:26928:0521/014012.296:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30176:28736:0521/014641.887:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[30176:28736:0521/014641.887:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[30176:28736:0521/014641.887:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[30176:28736:0521/014641.887:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1x1 (100% of ideal size)
+[30176:28736:0521/014642.007:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[30176:28736:0521/014642.061:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[30176:28736:0521/014642.092:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 990x557
+[30176:28736:0521/014642.092:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 1x1 to 990x557 (100% of ideal size)
+[30176:28736:0521/014644.077:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[30176:28736:0521/014644.077:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[30176:28736:0521/014644.077:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 990x557
+[30176:28736:0521/014644.077:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 990x557 (100% of ideal size)
+[19080:19084:0521/014644.086:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-755F7B9483F24C69FAB9154ACC70D8BD will be ignored
+[30176:28736:0521/014644.659:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 990x557
+[30176:28736:0521/014655.918:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 990x557
+[30176:28736:0521/014655.924:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1920x999
+[30176:28736:0521/014655.924:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 990x557 to 1920x999 (100% of ideal size)
+[30176:29060:0521/014955.096:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[30176:17532:0521/014955.228:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[30176:14784:0521/014955.639:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[30176:1620:0521/014955.639:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[30176:29060:0521/014955.651:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[30176:11300:0521/014955.806:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[30176:30172:0521/014956.008:ERROR:gl_utils.cc(415)] [.WebGL-000057A804C91B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30176:30172:0521/014956.008:ERROR:gl_utils.cc(415)] [.WebGL-000057A804C91B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30176:30172:0521/014956.023:ERROR:gl_utils.cc(415)] [.WebGL-000057A804C91B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30176:30172:0521/014956.023:ERROR:gl_utils.cc(415)] [.WebGL-000057A804C91B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[25168:25172:0521/021400.397:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
